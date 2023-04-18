@@ -1,0 +1,2 @@
+robot_hmi
+-DCATKIN_DEVEL_PREFIX=/home/skylar-xty/Add_Pan/ROS1/ros_hw/ROS-interaction/devel -DCMAKE_INSTALL_PREFIX=/home/skylar-xty/Add_Pan/ROS1/ros_hw/ROS-interaction/install -G Unix Makefiles

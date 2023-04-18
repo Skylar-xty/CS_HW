@@ -1,0 +1,8 @@
+prefix=/home/skylar-xty/Add_Pan/ROS1/ros_hw/ROS-interaction/install
+
+Name: robot_hmi
+Description: Description of robot_hmi
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
