@@ -30,14 +30,18 @@
 ### 1. UI Design
 - Create a graphical user interface (GUI) for the application using Qt Designer or custom code.
 - Ensure the interface is user-friendly and intuitive.
+  
 <img src="./3.png" title="Fig 3" width="300">
 <img src="./4.png" title="Fig 4" width="300">
 <img src="./5.png" title="Fig 5" width="300">
+
 ### 2. Integration with RViz
 - Enable interaction between the GUI and RViz for visualization and robot control.
 
 #### Code Directory Overview:
+
 <img src="./6.png" title="Fig 6" width="300">
+
 1. **`CCtrlDashBoard.cpp/.h`**:
    - Open-source speed dashboard program.
    - Handles the graphical representation of the robot's speed and direction.
